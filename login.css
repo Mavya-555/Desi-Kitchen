@@ -1,0 +1,149 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url() no-repeat center center fixed;
+    background-size: cover;
+}
+
+/* Login Box Styling */
+#login-box {
+    width: 700px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    overflow: hidden;
+}
+
+/* Left Section (Login and Sign-Up Form Section) */
+#login-box .left {
+    flex: 1;
+    padding-right: 30px;
+    background: #ffffff;
+    border-radius: 15px 0 0 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Right Section (Social Login Section) */
+#login-box .right {
+    flex: 1;
+    padding-left: 30px;
+    background: #f2f2f2;
+    border-radius: 0 15px 15px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Input Fields */
+#login-box input[type="text"],
+#login-box input[type="password"],
+#login-box input[type="submit"] {
+    display: block;
+    width: calc(100% - 40px);
+    margin: 15px auto;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+#login-box input[type="submit"] {
+    background: #5cb85c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#login-box input[type="submit"]:hover {
+    background: #4cae4c;
+}
+
+#login-box input[type="text"]:focus,
+#login-box input[type="password"]:focus {
+    border-color: #5cb85c;
+}
+
+/* Social Sign-in Buttons */
+.social-signin {
+    display: block;
+    background: #333;
+    color: white;
+    padding: 12px;
+    margin: 12px auto;
+    width: calc(100% - 40px);
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.social-signin.facebook {
+    background: #3b5998;
+}
+
+.social-signin.twitter {
+    background: #1da1f2;
+}
+
+.social-signin.google {
+    background: #db4437;
+}
+
+.social-signin:hover {
+    opacity: 0.9;
+}
+
+/* Hide forms initially */
+.auth-form {
+    display: none;
+}
+
+/* Toggle Link Styling */
+.toggle-link {
+    color: #5cb85c;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.toggle-link:hover {
+    color: #4cae4c;
+}
+
+/* Social Login Styling */
+.social-login {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Header Styling */
+h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+}
+/* 
+/* Add smooth transition for background image and other elements */
+#login-box .left, #login-box .right {
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+} 

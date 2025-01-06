@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #b5e2ee;
+    color: #333;
+}
+
+#container {
+    width: 90%;
+    max-width: 60%;
+    padding: 20px;
+    margin: 4% 0%;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: rgba(9, 66, 123, 0.996);
+    background: rgba(242, 234, 234, 0.926);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+/* #container>.cross{
+    text-align: end;
+} */
+h4 {
+    font-size: 18px;
+    margin: 15px 0 5px;
+    color: #af550c;
+    text-transform: uppercase;
+}
+p {
+    font-size: 16px;
+    color: #444;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+img {
+    width: 70%;
+    max-height: 40%;
+    object-fit: cover;
+    border-radius: 8px;
+    margin: 15px 0;
+}
+.no-data {
+    font-size: 18px;
+    color: #888;
+}
+
+.wishlist {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 3%;
+    float: right;
+}
+
+.wishlist i {
+    color: gray; /* Initial heart color is white */
+    font-size: 30px;
+    transition: color 0.3s; /* Smooth transition when changing color */
+}
+
+.wishlist i.liked {
+    color: red; /* Color when heart is clicked */
+}
+
+/* Hide the text entirely */
+.wishlist .wishlist-text {
+    display: none;
+}
+
+.cross{
+    margin-left: 90%;
+    margin-top: 3%;
+    font-size: 1.5rem;
+    color: rgba(33, 99, 52, 0.886);
+}
+.cross:hover{
+    color: red;
+}
+@media (max-width: 768px) {
+    #container {
+        width: 100%;
+        max-width: 90%;
+        padding: 15px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    h4 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+}
