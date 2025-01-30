@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firebase Sign-Up</title>
+    <link rel="stylesheet" href="./login.css">
+</head>
+
+<body>
+    <div id="login-box">
+        <div class="left">
+            <!-- Login Form  -->
+            <div id="login-form">
+                <h1>Login</h1>
+                <input type="text" id="login-email" placeholder="Email">
+                <input type="password" id="login-password" placeholder="Password">
+                <input type="submit" id="login" value="Login">
+                <p>New User? <span id="new-user" class="toggle-link">Sign Up</span></p>
+            </div>
+            <!-- Sign Up Form -->
+            <div id="signup-form" class="auth-form">
+                <h1>Sign Up</h1>
+                <input type="text" id="signup-username" placeholder="Username">
+                <input type="text" id="signup-email" placeholder="Email">
+                <input type="password" id="signup-password" placeholder="Password">
+                <input type="submit" id="signup" value="Sign Up">
+                <p>Already have an account? <span id="existing-user" class="toggle-link">Login</span></p>
+            </div>
+        </div>
+    </div>
+
+
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
+        import { getFirestore, setDoc, doc, updateDoc, getDoc } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore.js";
+        import { getDatabase, ref, set, update } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-database.js";
+        import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-auth.js";
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyDtrg871szCUCLecQ0FVbQOHDZtPVcdPlM",
+            authDomain: "desi-kitchen-e8760.firebaseapp.com",
+            projectId: "desi-kitchen-e8760",
+            storageBucket: "desi-kitchen-e8760.firebasestorage.app",
+            messagingSenderId: "924419761407",
+            appId: "1:924419761407:web:a02f5a0cc93981be1f98ca"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const database = getDatabase(app);
+        const db = getFirestore(app);
+        const auth = getAuth();
+
+        document.getElementById('signup').addEventListener('click', (e) => {
+            const username = document.getElementById('signup-username').value;
+            const email = document.getElementById('signup-email').value;
+            const password = document.getElementById('signup-password').value;
+            let wishlist = [];
+
+            if (!email || !password || !username) {
+                alert("Please fill in all fields.");
+                return;
+            }
+
+            // Firebase Authentication
+            createUserWithEmailAndPassword(auth, email, password)
+                .then((userCredential) => {
+                    const user = userCredential.user;
+
+                    // Storing data in Realtime Database
+                    //     set(ref(database, 'users/' + user.uid), {
+                    //         username: username,
+                    //         email: email,
+
+                    //     }).then(() => {
+                    //         alert("User created successfully!");
+                    //     }).catch((error) => {
+                    //         alert("Error saving user data: " + error.message);
+                    //     });
+                    // })
+                    // .catch((error) => {
+                    //     alert("Error: " + error.message);
+                    // });
+                    setDoc(doc(db, "users", user.uid), {
+                        username: username,
+                        email: email,
+                        wishlist: wishlist
+                    });
+                    // alert("signup Successful");
+                    window.location.href = `login.html`;
+                })
+                .catch((error) => {
+                    const errorCode = error.code;
+                    const errorMessage = error.message;
+                    // showMessage(errorMessage)
+                });
+        });
+
+        // Login Event 
+        document.getElementById('login').addEventListener('click', (e) => {
+            const email = document.getElementById('login-email').value;
+            const password = document.getElementById('login-password').value;
+
+            if (!email || !password) {
+                alert("Please enter both email and password.");
+                return;
+            }
+
+            signInWithEmailAndPassword(auth, email, password)
+                .then((userCredential) => {
+                    const user = userCredential.user;
+
+                    // Update last login time
+                    const dt = new Date();
+                    update(ref(database, 'users/' + user.uid), {
+                        last_login: dt.toString()
+                    }).then(() => {
+                        // alert('Logged in successfully!');
+                        window.location.href = `JSProject.html`;
+
+                    }).catch((error) => {
+                        alert("Error updating login time: " + error.message);
+                    });
+                })
+                .catch((error) => {
+                    alert("Error: " + error.message);
+                });
+        });
+
+        // Show Sign Up Form
+        document.getElementById('new-user').addEventListener('click', () => {
+            document.getElementById('login-form').style.display = 'none';
+            document.getElementById('signup-form').style.display = 'block';
+        });
+
+        // Show Login Form
+        document.getElementById('existing-user').addEventListener('click', () => {
+            document.getElementById('signup-form').style.display = 'none';
+            document.getElementById('login-form').style.display = 'block';
+        });
+    </script>
+</body>
+
+</html>

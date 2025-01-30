@@ -1,0 +1,369 @@
+{
+    "veg": [
+        {
+            "itemname": "Aloo Paratha",
+            "description": "Stuffed flatbread with spiced potato filling.",
+            "itemimg": "https://static.toiimg.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
+            "ingredients": "1. Potatoes\n2. Onions\n3. Green chilies\n4. Salt\n5. Coriander powder\n6. Cumin powder\n7. Wheat flour\n8. Ghee",
+            "procedure": "1. Boil potatoes until soft, then mash them and mix with finely chopped onions, green chilies, salt, coriander powder, and cumin powder. \n2. Knead wheat flour with water to form a smooth dough, then divide into balls. \n3. Roll out each ball, place the potato filling in the center, and seal. Roll again gently to flatten without the filling spilling out. \n4. Cook on a heated griddle with ghee, flipping until both sides are golden and crisp. \n5. Serve hot with curd or pickle.",
+            "category": "breakfast"
+        },
+        
+        {
+            "itemname": "Poha",
+            "description": "Flattened rice cooked with onions, spices, and peanuts.",
+            "itemimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoAZeKmIJJuzHaMOG-LLpQRWtG4TGdK_DNQ&s",
+            "ingredients": "1. Poha (flattened rice)\n2. Onions\n3. Green chilies\n4. Peanuts\n5. Mustard seeds\n6. Turmeric\n7. Salt\n8. Coriander leaves\n9. Lemon juice",
+            "procedure": "1. Rinse poha lightly under water and set aside. \n2. In a pan, heat oil and add mustard seeds until they splutter. \n3. Add chopped onions, green chilies, and peanuts, stirring until onions are soft. \n4. Sprinkle in turmeric and salt, then add the soaked poha. Stir gently to coat the poha with the spices, cooking briefly on low heat. \n5. Garnish with coriander leaves and a splash of lemon juice before serving.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Masala Dosa",
+            "description": "Rice and lentil crepe filled with spicy potato mixture.",
+            "itemimg": "https://revi.b-cdn.net/wp-content/uploads/2017/03/masala-dosa-2.jpg",
+            "ingredients": "1. Rice\n2. Urad dal\n3. Potatoes\n4. Onions\n5. Mustard seeds\n6. Turmeric\n7. Salt\n8. Ghee",
+            "procedure": "1. Soak rice and urad dal separately for a few hours, grind into a batter, and ferment overnight. \n2. For the filling, boil and mash potatoes, then sauté with mustard seeds, onions, and turmeric. \n3. On a heated griddle, spread a ladle of batter into a thin circle and cook until golden. \n4. Place a spoonful of potato filling in the center, fold the dosa, and cook until crisp. \n5. Serve with coconut chutney and sambar.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Pesarattu",
+            "description": "Pesarattu is a traditional South Indian pancake made from green gram (moong dal), often enjoyed as a healthy and filling breakfast. It is typically served with ginger chutney or coconut chutney, making it a perfect meal to start the day.",
+            "itemimg": "https://healthy-cooking-with-mitha.com/wp-content/uploads/2022/10/16653866087461557678001840858509.jpg?w=640",
+            "ingredients": "1. Green gram (moong dal)\n2. Green chilies\n3. Ginger\n4. Salt\n5. Water\n6. Oil or ghee for cooking",
+            "procedure": "1. Soak the green gram (moong dal) in water overnight or for at least 6 hours. Drain the water before using. \n2. Grind the soaked moong dal with green chilies, ginger, and salt into a smooth batter by adding water as needed. The consistency should be thick but pourable. \n3. Heat a tawa or flat pan and lightly grease it with oil or ghee. \n4. Pour a ladle of batter onto the hot tawa and spread it in a circular motion to form a pancake. \n5. Cook the pesarattu on medium heat for 2-3 minutes, and then flip it to cook the other side until golden brown and crispy. \n6. Repeat with the remaining batter, adding more oil if necessary. \n7. Serve hot with ginger chutney or coconut chutney.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Dhokla",
+            "description": "Dhokla is a savory, spongy steamed cake from Gujarat, India, made from fermented rice and chickpea flour. It is commonly served as a breakfast or snack item, paired with chutney or yogurt.",
+            "itemimg": "https://www.cookwithnabeela.com/wp-content/uploads/2024/02/KhamanDhokla1.webp",
+            "ingredients": "1. 1 cup Chickpea flour (besan)\n2. 1/4 cup Rice flour\n3. 1/2 cup Yogurt\n4. 1/4 tsp Turmeric powder\n5. 2 Green chilies, chopped\n6. 1 inch Ginger, grated\n7. Salt to taste\n8. 1 tsp Eno fruit salt\n9. Water as required\n10. 1 tbsp Oil\n11. 1 tsp Mustard seeds\n12. 1 tsp Cumin seeds\n13. Few Curry leaves\n14. Fresh Coriander leaves for garnish",
+            "procedure": "1. Mix chickpea flour (besan), rice flour, turmeric powder, and salt in a bowl. Add yogurt and enough water to make a smooth batter. Let it rest for 15-20 minutes to ferment slightly. \n2. Add a pinch of Eno fruit salt into the batter and mix well to make it fluffy. If the batter is too thick, add a little more water. \n3. Grease a steaming dish or a round bowl with oil. Pour the batter into the greased dish, filling it halfway. \n4. Boil water in a steamer or a large pot and place the batter dish inside. Cover the pot and steam the batter for 15-20 minutes until a toothpick comes out clean. \n5. While the Dhokla is steaming, heat oil in a small pan. Add mustard seeds, cumin seeds, curry leaves, chopped green chilies, and ginger. Fry for a minute and pour this tempering over the steamed Dhokla. \n6. Let the Dhokla cool for a minute and then cut it into square pieces. Garnish with fresh coriander leaves and serve hot with green chutney or yogurt.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Misal Pav",
+            "description": "Misal Pav is a popular street food from Maharashtra, India. It consists of spicy curry made from sprouts, served with pav (bread rolls) and garnished with onions, coriander, and lemon.",
+            "itemimg": "https://pipingpotcurry.com/wp-content/uploads/2019/04/Misal-Pav-Instant-Pot-1.jpg",
+            "ingredients": "1. 1 cup Sprouted moth beans\n2. 2 medium-sized Tomatoes, chopped\n3. 1 Onion, finely chopped\n4. 2-3 Green chilies, chopped\n5. 1-inch Ginger, grated\n6. 1/2 tsp Turmeric powder\n7. 1 tsp Red chili powder\n8. 1 tbsp Garam masala\n9. 1 tbsp Chaat masala\n10. Salt to taste\n11. 2 tbsp Oil\n12. 1 tsp Mustard seeds\n13. 1 tsp Cumin seeds\n14. 2-3 Cloves\n15. 1 bay leaf\n16. 1/4 cup Fresh coriander leaves, chopped\n17. Lemon wedges\n18. Pav (bread rolls) for serving\n19. 1/4 cup Sev (crunchy chickpea noodles)",
+            "procedure": "1. To begin, wash and soak the sprouted moth beans for a few hours. Drain the water and set aside. \n2. Heat oil in a pan. Add mustard seeds, cumin seeds, cloves, and bay leaf. Let them splutter for a few seconds. \n3. Add chopped onions, green chilies, and grated ginger to the pan. Sauté until the onions turn translucent. \n4. Now, add chopped tomatoes, turmeric powder, red chili powder, and salt. Cook the mixture until the tomatoes become soft and the oil starts separating. \n5. Add the sprouted moth beans to the pan. Mix well and cook for 2-3 minutes. \n6. Add water to the pan and let it simmer for about 10-15 minutes until the curry thickens to your desired consistency. You can adjust the water as per your preference. \n7. Once the misal is ready, serve it hot in a bowl. Garnish with chopped fresh coriander leaves, sev, and a squeeze of lemon juice. \n8. Serve the misal with pav (bread rolls) on the side. You can either dip the pav into the misal or serve it alongside.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Veg Biryani",
+            "description": "Veg Biryani is a fragrant and flavorful rice dish made with basmati rice, vegetables, and a blend of aromatic spices. It’s a popular dish in Indian cuisine, often served with raita or salad.",
+            "itemimg": "https://www.terrafood.co.in/cdn/shop/files/VegBiryani.jpg?v=1687766592",
+            "ingredients": "1. 1 cup basmati rice\n2. 1 cup mixed vegetables (carrot, peas, beans, potato)\n3. 2 onions, thinly sliced\n4. 2 tomatoes, chopped\n5. 1/4 cup yogurt\n6. 2 tablespoons ginger-garlic paste\n7. 1 tablespoon biryani masala\n8. 1 teaspoon cumin seeds\n9. 2 cloves\n10. 1 cinnamon stick\n11. 2-3 cardamom pods\n12. 1 bay leaf\n13. 1/2 teaspoon turmeric powder\n14. 1/2 teaspoon red chili powder\n15. Salt to taste\n16. 2 tablespoons ghee\n17. 2 tablespoons oil\n18. Fresh coriander and mint leaves for garnishing\n19. 2 cups water",
+            "procedure": "1. Rinse the basmati rice thoroughly and soak it in water for 30 minutes. Drain the water before cooking. \n2. In a large pot, heat 2 tablespoons of oil and 2 tablespoons of ghee. Add cumin seeds, cloves, cinnamon stick, cardamom, and bay leaf. Sauté for a minute until fragrant. \n3. Add sliced onions and fry them until golden brown. Remove half of the fried onions and set aside for garnishing. \n4. Add ginger-garlic paste and sauté for another minute. Then, add chopped tomatoes, turmeric powder, red chili powder, and biryani masala. Cook until the tomatoes soften. \n5. Add the chopped vegetables and cook for 5-7 minutes until they are tender. Add yogurt and salt, and mix well. \n6. In a separate pan, bring 2 cups of water to a boil. Add the soaked rice and cook until it's 70-80% done. Drain the water. \n7. Layer the partially cooked rice over the vegetable mixture. Sprinkle the reserved fried onions, fresh coriander, and mint leaves. \n8. Cover the pot with a tight lid and cook on low heat (dum cooking) for 15-20 minutes. You can place a heavy object on the lid to seal the pot. \n9. Once done, gently fluff the rice with a fork and serve hot with raita or a side salad.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Pulihora",
+            "description": "Pulihora, also known as Tamarind Rice, is a traditional South Indian dish made with tamarind, rice, and a variety of spices. It’s tangy, flavorful, and perfect for lunch or picnics.",
+            "itemimg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjSg4L7Q5rpxR2VdOIK7rZP4i1A2cD8aPOAfQNFtWB09Nc4Yy22Y2UwxHPEYzgYmeWzQUpzPPuOyshZDSowxGXOC6JzimLbVBVrOxJLvK1eZCEoGlKHMTwAN1AunO0C3yd1b21Pgk-u5p/s1600/20160909_144827.jpg",
+            "ingredients": "1. 1 cup rice\n2. 2 tablespoons tamarind paste\n3. 1 tablespoon oil\n4. 1/2 teaspoon mustard seeds\n5. 1/2 teaspoon cumin seeds\n6. 1/4 teaspoon turmeric powder\n7. 1/2 teaspoon red chili powder\n8. 1/2 teaspoon coriander powder\n9. 1/4 teaspoon asafoetida (hing)\n10. 1/4 cup peanuts\n11. 1-2 dried red chilies\n12. 10-12 curry leaves\n13. Salt to taste\n14. 1 tablespoon jaggery (optional)\n15. 2 cups water",
+            "procedure": "1. Cook 1 cup of rice and let it cool. Fluff it with a fork to separate the grains.\n2. In a pan, heat 1 tablespoon of oil and add mustard seeds. When they start to splutter, add cumin seeds, dried red chilies, and curry leaves.\n3. Add the peanuts and sauté for a couple of minutes until they become crunchy.\n4. Add turmeric powder, red chili powder, coriander powder, and asafoetida. Stir well to combine.\n5. Add the tamarind paste, salt, and jaggery (if using) to the pan. Let the tamarind cook for 5-7 minutes, and the mixture should thicken slightly.\n6. Add the cooked rice to the tamarind mixture and mix well. Ensure the rice is well-coated with the tamarind paste and spices.\n7. Cook for another 5 minutes on low heat, allowing the flavors to blend.\n8. Serve hot or at room temperature, garnished with extra peanuts and curry leaves.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Malai Kofta",
+            "description": "Malai Kofta is a rich and creamy North Indian dish made with deep-fried vegetable or paneer balls (koftas) served in a flavorful, spiced tomato-based gravy. It is commonly enjoyed with naan, roti, or rice.",
+            "itemimg": "https://eastindianrecipes.net/wp-content/uploads/2024/01/Malai-Kofta-Curry-Recipe-1-1-500x500.jpg",
+            "ingredients": "1. 1 cup boiled and mashed potatoes\n2. 1/2 cup grated paneer\n3. 1/4 cup cornflour\n4. 1/4 teaspoon garam masala\n5. 1/4 teaspoon turmeric powder\n6. 1/2 teaspoon red chili powder\n7. Salt to taste\n8. Oil for frying\n9. 1 tablespoon ghee\n10. 1 bay leaf\n11. 2 green cardamom pods\n12. 1 cinnamon stick\n13. 1/2 cup chopped onions\n14. 1 tablespoon ginger-garlic paste\n15. 1/2 cup chopped tomatoes\n16. 1/4 cup cashew paste\n17. 1/2 cup cream\n18. 1 teaspoon sugar\n19. Fresh coriander leaves for garnish",
+            "procedure": "1. To make the koftas, combine boiled mashed potatoes, grated paneer, cornflour, garam masala, turmeric powder, red chili powder, and salt in a bowl. Mix well to form a dough.\n2. Divide the dough into small portions and shape them into smooth balls. Heat oil in a deep pan and fry the koftas on medium heat until they are golden brown and crispy. Set them aside.\n3. For the gravy, heat ghee in a pan and add bay leaf, cardamom pods, and cinnamon stick. Sauté for a minute until aromatic.\n4. Add chopped onions and cook until they turn golden brown. Then, add ginger-garlic paste and sauté for 2 minutes.\n5. Add chopped tomatoes and cook until they soften. Blend this mixture into a smooth paste once cooled.\n6. In the same pan, add the cashew paste and cook for 3-4 minutes. Add the tomato-onion paste, salt, red chili powder, garam masala, and sugar. Cook until the oil starts to separate from the masala.\n7. Add water to adjust the consistency of the gravy and bring it to a simmer. Stir in the cream to make the gravy rich and creamy.\n8. Gently add the fried koftas into the gravy and simmer for 5 minutes to allow the flavors to blend.\n9. Garnish with fresh coriander leaves and serve hot with naan, roti, or steamed rice.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Guthi Vankaya Curry",
+            "description": "Guthi Vankaya Curry is a traditional Andhra dish made with stuffed brinjals (eggplants) cooked in a flavorful and spicy curry. The brinjals are stuffed with a mixture of spices, tamarind, and peanuts, then simmered in a tangy, spiced gravy.",
+            "itemimg": "https://www.lekhafoods.com/media/202129/guthi-vankaya-pulusu.jpg",
+            "ingredients": "1. 6-8 small brinjals (eggplants)\n2. 2 tablespoons sesame oil\n3. 1/2 teaspoon mustard seeds\n4. 1/2 teaspoon cumin seeds\n5. 1 onion, finely chopped\n6. 1 tablespoon ginger-garlic paste\n7. 1 tomato, finely chopped\n8. 1 teaspoon turmeric powder\n9. 1 teaspoon red chili powder\n10. 1 teaspoon coriander powder\n11. 1 tablespoon tamarind paste\n12. 1/2 cup roasted peanuts, ground to a paste\n13. 1 teaspoon jaggery or sugar (optional)\n14. Salt to taste\n15. Fresh coriander leaves for garnish",
+            "procedure": "1. Wash the brinjals and make 2-3 slits on each, keeping the stems intact.\n2. In a bowl, mix together the ground peanuts, turmeric powder, red chili powder, coriander powder, tamarind paste, and salt to make a stuffing paste.\n3. Stuff each brinjal with the prepared paste and set them aside.\n4. Heat oil in a pan and add mustard seeds and cumin seeds. Let them splutter.\n5. Add chopped onions and sauté until golden brown, then add ginger-garlic paste and cook until the raw smell disappears.\n6. Add chopped tomatoes, turmeric powder, and red chili powder, and cook until the tomatoes soften.\n7. Gently add the stuffed brinjals to the pan and cook them for about 5-7 minutes, stirring occasionally.\n8. Add water to create the gravy and bring to a simmer. Cover and cook for 10-15 minutes until the brinjals are tender and the curry thickens.\n9. Optionally, add jaggery for a hint of sweetness, and simmer for another 2-3 minutes.\n10. Garnish with fresh coriander leaves and serve hot with rice or roti.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Sambar",
+            "description": "Sambar is a traditional South Indian lentil-based vegetable stew, cooked with tamarind, spices, and a mix of vegetables. It is usually served with rice, dosa, idli, or vada, and is packed with rich flavors and nutrients.",
+            "itemimg": "https://images.herzindagi.info/image/2022/May/sambar-easy-recipe.jpg",
+            "ingredients": "1. 1 cup toor dal (pigeon peas)\n2. 1 onion, chopped\n3. 1 tomato, chopped\n4. 1 carrot, chopped\n5. 1 potato, chopped\n6. 1/4 cup beans, chopped\n7. 1/4 cup drumstick (optional)\n8. 2 tablespoons tamarind pulp\n9. 2 tablespoons sambar powder\n10. 1/2 teaspoon turmeric powder\n11. 1/2 teaspoon mustard seeds\n12. 1/2 teaspoon cumin seeds\n13. 2 dried red chilies\n14. 1-2 green chilies, slit\n15. 1/2 teaspoon hing (asafoetida)\n16. 10-12 curry leaves\n17. Salt to taste\n18. 2 tablespoons oil\n19. Fresh coriander leaves for garnish\n20. 4 cups water",
+            "procedure": "1. Cook the toor dal in 4 cups of water in a pressure cooker until soft and mushy (about 3-4 whistles). Set aside.\n2. Heat oil in a large pan and add mustard seeds. Let them splutter, then add cumin seeds, dried red chilies, and curry leaves.\n3. Add chopped onions and sauté until they turn golden brown.\n4. Add chopped tomatoes, carrots, potatoes, beans, and drumstick. Cook for about 5-7 minutes until the vegetables soften.\n5. Add turmeric powder, sambar powder, and salt. Stir the mixture well.\n6. Add tamarind pulp and water. Bring the mixture to a boil, then simmer for 10-15 minutes until the vegetables are tender.\n7. Add the cooked toor dal to the pan, stir, and cook for an additional 5-7 minutes, allowing all the flavors to combine.\n8. If the sambar is too thick, you can add more water to adjust the consistency.\n9. Garnish with fresh coriander leaves and serve hot with rice, idli, dosa, or vada.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Kaju Curry",
+            "description": "Kaju Curry is a rich and flavorful North Indian curry made with cashew nuts in a creamy, spiced gravy. This dish is often served with roti, naan, or rice, and is perfect for festive occasions.",
+            "itemimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaPPdhB8wUOwMI-xppN6eKa577Mxdr2Mdkw&s",
+            "ingredients": "1. 1 cup cashew nuts (kaju)\n2. 1 onion, finely chopped\n3. 2 tomatoes, finely chopped\n4. 1/2 cup yogurt\n5. 1/4 cup cream\n6. 1/2 teaspoon turmeric powder\n7. 1 teaspoon red chili powder\n8. 1 teaspoon garam masala\n9. 1/2 teaspoon cumin seeds\n10. 1-2 green cardamoms\n11. 1-inch cinnamon stick\n12. 1/2 teaspoon ginger-garlic paste\n13. 2 tablespoons cashew paste (blend cashews with water)\n14. Salt to taste\n15. 2 tablespoons oil\n16. Fresh coriander leaves for garnish",
+            "procedure": "1. Heat oil in a pan and add cumin seeds, cardamoms, and cinnamon stick. Let them splutter.\n2. Add the finely chopped onions and sauté until golden brown.\n3. Add ginger-garlic paste and sauté for another minute until fragrant.\n4. Add chopped tomatoes, turmeric powder, red chili powder, and salt. Cook until the tomatoes soften and the oil separates from the masala.\n5. Add the cashew paste and cook for 5-7 minutes on medium heat to blend the flavors.\n6. Stir in yogurt and cook for 3-4 minutes until the gravy thickens.\n7. Add water to adjust the consistency of the curry. Simmer for 10 minutes to allow the gravy to thicken and blend.\n8. Add cashews, garam masala, and cream. Stir well and cook for 5-7 minutes, allowing the cashews to soak up the flavors.\n9. Garnish with fresh coriander leaves and serve hot with naan, roti, or rice.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Aloo Samosa",
+            "description": "Aloo Samosa is a popular Indian snack made with a crispy, golden-brown pastry filled with a spiced potato filling. It's typically served with tamarind chutney or mint chutney, perfect for tea-time or as a starter.",
+            "itemimg": "https://media.licdn.com/dms/image/v2/D4D12AQH12vHi3sDyVA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686063607115?e=2147483647&v=beta&t=fXXtFJ8wg_twWdTfJLZnSi-NVftsakYaFhAHeXt8Fgw",
+            "ingredients": "1. 2 large potatoes, boiled and mashed\n2. 1 tablespoon oil\n3. 1 teaspoon cumin seeds\n4. 1 teaspoon mustard seeds\n5. 1/2 teaspoon turmeric powder\n6. 1 teaspoon red chili powder\n7. 1 teaspoon garam masala\n8. 1 tablespoon chopped coriander leaves\n9. 1/2 teaspoon crushed ginger\n10. 1/2 teaspoon crushed garlic\n11. Salt to taste\n12. 1/2 cup green peas (optional)\n13. 8-10 samosa wrappers (or prepared dough)\n14. Oil for deep frying",
+            "procedure": "1. Heat oil in a pan, add cumin seeds and mustard seeds. Let them splutter.\n2. Add crushed ginger and garlic, sauté for a minute, then add the turmeric powder and red chili powder.\n3. Add the boiled and mashed potatoes to the pan. Stir well to combine with the spices.\n4. Add the garam masala, chopped coriander leaves, salt, and green peas. Cook for 3-4 minutes and then set the filling aside to cool.\n5. Take the samosa wrappers (or dough) and shape them into cones. Fill each cone with the potato mixture and seal the edges by pinching them together.\n6. Heat oil in a deep frying pan. Once hot, fry the samosas in batches until they are golden brown and crispy on all sides.\n7. Remove from oil and drain excess oil on paper towels.\n8. Serve the hot aloo samosas with tamarind chutney or mint chutney.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Veg Sweetcorn Rolls",
+            "description": "Crispy rolls filled with a spiced mixture of vegetables and sweetcorn, wrapped in a thin flour wrapper.",
+            "itemimg": "https://thatdeliciousdish.com/wp-content/uploads/2019/03/Corn-Spinach-Kathi-Roll-3.jpg",
+            "ingredients": "1. Sweetcorn\n2. Cabbage\n3. Carrots\n4. Onions\n5. Green chilies\n6. Ginger\n7. Garlic\n8. Cumin powder\n9. Turmeric\n10. Red chili powder\n11. Garam masala\n12. Salt\n13. Pepper\n14. Coriander leaves\n15. Wheat flour (for the wrapper)\n16. Oil",
+            "procedure": "1. To make the wrapper, knead wheat flour with water and a pinch of salt to form a smooth dough.\n2. Roll out the dough into thin circles and cook on a heated griddle for a few seconds on each side.\n3. For the filling, sauté chopped onions, cabbage, carrots, and green chilies with ginger and garlic in a little oil.\n4. Add cumin powder, turmeric, red chili powder, garam masala, salt, and pepper.\n5. Add sweetcorn and cook the mixture for a few minutes. Remove from heat and mix in chopped coriander leaves.\n6. Place the filling in the center of each wrapper, roll it up tightly, and seal the edges with a little water.\n7. Fry the rolls in hot oil until golden and crispy.\n8. Serve with chutney or sauce of your choice.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Gobi Manchurian",
+            "description": "Crispy battered cauliflower florets tossed in a spicy, tangy sauce with a Chinese influence.",
+            "itemimg": "https://palatesdesire.com/wp-content/uploads/2022/09/dry-gobi-manchurian-recipe@palates-desire.jpg",
+            "ingredients": "1. Cauliflower\n2. Cornflour\n3. All-purpose flour\n4. Rice flour\n5. Ginger\n6. Garlic\n7. Green chilies\n8. Onions\n9. Capsicum\n10. Soy sauce\n11. Tomato ketchup\n12. Vinegar\n13. Chili sauce\n14. Salt\n15. Pepper\n16. Oil\n17. Coriander leaves",
+            "procedure": "1. Cut cauliflower into small florets and blanch them in hot water with a pinch of salt for a few minutes.\n2. In a bowl, mix cornflour, all-purpose flour, rice flour, salt, pepper, and enough water to make a thick batter.\n3. Dip the cauliflower florets in the batter and deep-fry them until golden and crispy.\n4. In a pan, heat oil and sauté chopped ginger, garlic, and green chilies.\n5. Add finely chopped onions and capsicum, and stir-fry for a minute.\n6. Add soy sauce, tomato ketchup, vinegar, chili sauce, salt, and pepper, and cook for a few minutes to make a sauce.\n7. Toss the fried cauliflower florets in the sauce, ensuring they are well-coated.\n8. Garnish with chopped coriander leaves and serve hot.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Vada Pav",
+            "description": "A popular Indian street food, consisting of a spicy potato fritter served in a bun, similar to a burger.",
+            "itemimg": "https://ministryofcurry.com/wp-content/uploads/2024/06/vada-pav-15.jpg",
+            "ingredients": "1. Potatoes\n2. Onions\n3. Green chilies\n4. Coriander leaves\n5. Ginger\n6. Garlic\n7. Mustard seeds\n8. Curry leaves\n9. Turmeric\n10. Chili powder\n11. Garam masala\n12. Salt\n13. Gram flour (besan)\n14. Oil\n15. Pav (bread rolls)\n16. Chutney (optional)",
+            "procedure": "1. Boil the potatoes until soft and mash them.\n2. In a pan, heat oil, add mustard seeds, curry leaves, finely chopped onions, green chilies, ginger, and garlic. Sauté for a minute.\n3. Add turmeric, chili powder, garam masala, and salt. Add the mashed potatoes and mix well.\n4. Cook for a few minutes, then let the mixture cool.\n5. Shape the potato mixture into round patties.\n6. For the batter, mix gram flour, salt, and water to make a smooth batter.\n7. Heat oil for frying. Dip the potato patties into the batter and deep-fry until golden and crispy.\n8. Slice the pav (bread rolls) and optionally spread chutney on the inside.\n9. Place the fried vada in the pav and serve hot.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Puffed Rice Mixture",
+            "description": "A popular Indian snack made with puffed rice, vegetables, chutneys, and spices.",
+            "itemimg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuCy9neSYW7lrukzPPL5ofSebX6EhXgn4u9GVMKc6IXbBPcaRlYcnvTvCkm6H3PKv4RQMtQPhh1GuDtaSGg2N2B_ttp9llzw4OVe1x-gLJzDsePv7X6kK92eDgljR3hJJM7i5bQZZ4ueEUkCMOPbQwXtudhoP82JzoQJOM_iK25-iDHOvabEP_F6gk3A/s843/murmura%201.jpg",
+            "ingredients": "1. Puffed rice\n2. Onions\n3. Tomatoes\n4. Cucumber\n5. Potatoes\n6. Green chilies\n7. Coriander leaves\n8. Tamarind chutney\n9. Mint chutney\n10. Chili powder\n11. Chaat masala\n12. Salt\n13. Roasted peanuts\n14. Sev\n15. Lemon juice",
+            "procedure": "1. In a large mixing bowl, add puffed rice, finely chopped onions, tomatoes, cucumber, and boiled potatoes.\n2. Add green chilies, coriander leaves, and roasted peanuts.\n3. Pour in tamarind chutney and mint chutney to taste.\n4. Sprinkle chili powder, chaat masala, and salt.\n5. Toss everything gently to combine.\n6. Finally, top with sev and a squeeze of lemon juice for extra tanginess.\n7. Serve immediately to enjoy the crunch and flavor.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Pani Puri",
+            "description": "A popular Indian street food consisting of hollow puris filled with spicy water, tamarind chutney, and potato stuffing.",
+            "itemimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pani_Puri1.JPG/1200px-Pani_Puri1.JPG",
+            "ingredients": "1. Puris (hollow)\n2. Boiled potatoes\n3. Chickpeas\n4. Onions\n5. Coriander leaves\n6. Tamarind chutney\n7. Mint chutney\n8. Chili powder\n9. Cumin powder\n10. Black salt\n11. Coriander powder\n12. Lemon juice\n13. Cold water",
+            "procedure": "1. Start by preparing the potato stuffing. Boil potatoes until soft and mash them. Add boiled chickpeas, finely chopped onions, and chopped coriander leaves to the mashed potatoes. Season with salt, red chili powder, and a pinch of cumin powder.\n2. For the spicy water (pani), mix mint chutney, tamarind chutney, red chili powder, cumin powder, black salt, coriander powder, and fresh lemon juice in a large bowl.\n3. Gradually add cold water, stirring well to balance the flavor and spice levels.\n4. To assemble, make a small hole in the center of each puri. Stuff each puri with the potato mixture and dip it into the spicy pani.\n5. Quickly eat each puri after dipping, as they are best served immediately.\n6. Garnish with extra coriander leaves and a squeeze of lemon juice if desired. Enjoy the burst of flavors in every bite!",
+            "category": "snacks"
+        }
+    ],
+    "nonveg": [
+        {
+            "itemname": "Chicken Oats",
+            "description": "A healthy and protein-packed breakfast combining oats with tender chicken and vegetables.",
+            "itemimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cHy9zl_TKd4A2OkeYVuQX0VypKEB1ETMAg&s",
+            "ingredients": "1. Oats\n2. Chicken breast (boneless)\n3. Onions (chopped)\n4. Tomatoes (chopped)\n5. Ginger-garlic paste\n6. Green chilies\n7. Coriander leaves\n8. Olive oil\n9. Salt\n10. Pepper\n11. Turmeric powder\n12. Cumin powder\n13. Lemon juice",
+            "procedure": "1. To make Chicken Oats, start by heating olive oil in a pan. Add chopped onions and sauté until golden.\n2. Add ginger-garlic paste and chopped tomatoes, and cook until the tomatoes become soft.\n3. Cut the chicken breast into small cubes and add it to the pan. Stir-fry the chicken pieces until they turn golden brown.\n4. Add turmeric powder, cumin powder, salt, and pepper, and cook for a few more minutes.\n5. Meanwhile, cook the oats in a separate pan according to package instructions, adding water or broth for flavor.\n6. Once the oats are cooked, add the chicken mixture to the oats and stir well. Cook for a couple more minutes, allowing the flavors to blend.\n7. Garnish with fresh coriander leaves and a squeeze of lemon juice.\n8. Serve hot and enjoy a nutritious and delicious breakfast!",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Keema Dosa",
+            "description": "A crispy dosa stuffed with spiced minced meat filling, a savory and satisfying dish.",
+            "itemimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97ZSvgex6wdhBIIz2OmxcRI55b6LyLKrvog&s",
+            "ingredients": "1. Dosa batter\n2. Ground mutton or chicken (minced)\n3. Onions (finely chopped)\n4. Tomatoes (finely chopped)\n5. Ginger-garlic paste\n6. Green chilies (chopped)\n7. Coriander powder\n8. Cumin powder\n9. Turmeric powder\n10. Chili powder\n11. Garam masala\n12. Coriander leaves (chopped)\n13. Oil\n14. Salt",
+            "procedure": "1. To make Keema Dosa, begin by preparing the keema filling. Heat oil in a pan, add finely chopped onions and sauté until golden.\n2. Add ginger-garlic paste and green chilies, and cook for a minute.\n3. Add chopped tomatoes, and cook until soft.\n4. Add the ground mutton (or chicken) to the pan, stirring occasionally to break up any lumps. Cook the meat until browned and cooked through.\n5. Season with coriander powder, cumin powder, chili powder, turmeric powder, and garam masala. Add salt to taste and cook until the mixture thickens.\n6. Garnish with fresh coriander leaves and set aside.\n7. Heat a griddle and spread a thin layer of dosa batter, cooking until crispy on both sides.\n8. Once the dosa is ready, place a generous amount of keema filling in the center and fold the dosa over it.\n9. Serve hot with chutney or sambar on the side.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Egg Poha",
+            "description": "Flattened rice cooked with eggs, spices, and vegetables, offering a delicious and nutritious breakfast.",
+            "itemimg": "https://img-global.cpcdn.com/recipes/eaa3ef8c8dd6b8d1/680x482cq70/egg-poha-recipe-main-photo.jpg",
+            "ingredients": "1. Poha (flattened rice)\n2. Onions (finely chopped)\n3. Green chilies (chopped)\n4. Peas\n5. Eggs\n6. Mustard seeds\n7. Turmeric powder\n8. Salt\n9. Coriander leaves (chopped)\n10. Lemon juice\n11. Oil",
+            "procedure": "1. Start by rinsing the poha under cold water and draining it. Set it aside for a few minutes.\n2. Heat oil in a pan, add mustard seeds, and let them splutter.\n3. Add chopped onions and sauté until golden brown.\n4. Add green chilies and peas, cooking for a couple of minutes.\n5. Push the veggies to one side and crack the eggs into the pan. Scramble the eggs until cooked through.\n6. Add turmeric powder and salt, then mix in the poha. Stir gently to coat the poha with the spices, and cook for a few minutes on low heat.\n7. Garnish with coriander leaves and a squeeze of lemon juice before serving.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Egg Muffins",
+            "description": "A savory breakfast muffin made with eggs, vegetables, and cheese, perfect for a quick and nutritious meal.",
+            "itemimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfulZRGnmBy5WyyruRSvvE93vRwRvSiXoLQw&s",
+            "ingredients": "1. Eggs\n2. Bell peppers (chopped)\n3. Onions (chopped)\n4. Spinach (chopped)\n5. Cheddar cheese (grated)\n6. Salt\n7. Pepper\n8. Olive oil\n9. Baking powder\n10. Milk",
+            "procedure": "1. Preheat your oven to 180°C (350°F) and grease a muffin tin with olive oil or cooking spray.\n2. In a bowl, whisk the eggs with milk, salt, and pepper.\n3. Stir in chopped bell peppers, onions, spinach, grated cheddar cheese, and a pinch of baking powder.\n4. Pour the mixture into the muffin tin, filling each cup about 3/4 full.\n5. Bake for 15-20 minutes, or until the eggs are set and slightly golden on top.\n6. Allow the muffins to cool for a few minutes before serving.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Omelette Chapathi Roll",
+            "description": "A delicious roll made with a soft chapathi, filled with a spiced omelette and wrapped to perfection, ideal for a quick breakfast or snack.",
+            "itemimg": "https://images.picxy.com/cache/2020/7/9/c3e0ca1486e441370f51b1b725ce8eb1.jpg",
+            "ingredients": "1. Chapathi\n2. Eggs\n3. Onions (chopped)\n4. Tomatoes (chopped)\n5. Green chilies (chopped)\n6. Salt\n7. Pepper\n8. Coriander leaves\n9. Oil",
+            "procedure": "1. Heat a tawa or frying pan, and cook the chapathi on both sides until golden brown and set aside.\n2. In the same pan, heat a little oil and sauté onions, tomatoes, and green chilies until soft.\n3. In a bowl, beat the eggs with salt, pepper, and chopped coriander leaves.\n4. Pour the egg mixture over the sautéed veggies and cook until the omelette is firm and golden on both sides.\n5. Place the cooked omelette on the chapathi and roll it up tightly.\n6. Serve hot, optionally with a side of chutney or sauce.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Chicken Vermicelli",
+            "description": "A flavorful and light dish made with chicken, spices, and vermicelli, perfect for a wholesome lunch or dinner.",
+            "itemimg": "https://mymorningmocha.com/wp-content/uploads/2023/09/chicken-vermicelli-recipe.jpg",
+            "ingredients": "1. Vermicelli\n2. Chicken breast (cut into small pieces)\n3. Onions (chopped)\n4. Tomatoes (chopped)\n5. Ginger-garlic paste\n6. Green chilies (slit)\n7. Turmeric powder\n8. Coriander powder\n9. Garam masala\n10. Salt\n11. Oil\n12. Coriander leaves (for garnish)",
+            "procedure": "1. Heat oil in a pan and sauté chopped onions until golden brown.\n2. Add ginger-garlic paste and green chilies, and sauté for a minute.\n3. Add chicken pieces and cook until they turn white and start to brown.\n4. Add chopped tomatoes, turmeric, coriander powder, and salt. Cook until tomatoes soften and the spices are well-blended.\n5. Add enough water to cook the chicken, and simmer for 10-15 minutes.\n6. In a separate pan, lightly roast the vermicelli in some oil until golden.\n7. Once the chicken is cooked, add the roasted vermicelli to the chicken mixture, along with a bit more water if necessary.\n8. Cook until the vermicelli absorbs the flavors and becomes soft.\n9. Garnish with coriander leaves and serve hot.",
+            "category": "breakfast"
+        },
+        {
+            "itemname": "Butter Chicken",
+            "description": "A rich, creamy, and flavorful chicken curry made with marinated chicken cooked in a buttery tomato gravy, perfect for pairing with naan or rice.",
+            "itemimg": "https://cdn.mos.cms.futurecdn.net/L5LwYrPzK5MvxTVFT9yq2d.jpg",
+            "ingredients": "1. Chicken (boneless, cut into pieces)\n2. Yogurt\n3. Ginger-garlic paste\n4. Lemon juice\n5. Garam masala\n6. Turmeric powder\n7. Red chili powder\n8. Cumin powder\n9. Coriander powder\n10. Butter\n11. Oil\n12. Onions (chopped)\n13. Tomatoes (pureed)\n14. Kasuri methi (dried fenugreek leaves)\n15. Cream\n16. Sugar\n17. Salt\n18. Cilantro (for garnish)",
+            "procedure": "1. Start by marinating the chicken in yogurt, ginger-garlic paste, lemon juice, garam masala, turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Let it marinate for at least 30 minutes to 1 hour.\n2. In a large pan, heat oil and butter. Add chopped onions and sauté until golden brown.\n3. Add ginger-garlic paste and cook for a minute.\n4. Pour in pureed tomatoes and cook until the oil separates from the masala.\n5. Add the marinated chicken to the pan and cook until it is no longer pink.\n6. Add a little water to make a thick gravy and simmer for 10 minutes.\n7. Stir in cream, kasuri methi, and sugar to balance the flavors.\n8. Cook for an additional 5 minutes until the gravy is rich and creamy.\n9. Garnish with cilantro and serve hot with naan or rice.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Fish Curry",
+            "description": "A delicious, spicy, and tangy curry made with fresh fish cooked in a flavorful gravy of tomatoes, coconut milk, and spices.",
+            "itemimg": "https://www.licious.in/blog/wp-content/uploads/2022/03/shutterstock_1891229335-min.jpg",
+            "ingredients": "1. Fish pieces (preferably white fish like tilapia or kingfish)\n2. Onions (chopped)\n3. Tomatoes (chopped)\n4. Ginger-garlic paste\n5. Green chilies\n6. Coconut milk\n7. Turmeric powder\n8. Red chili powder\n9. Coriander powder\n10. Garam masala\n11. Tamarind pulp\n12. Curry leaves\n13. Mustard seeds\n14. Oil\n15. Salt\n16. Coriander leaves (for garnish)",
+            "procedure": "1. Heat oil in a large pan, add mustard seeds, and let them splutter.\n2. Add curry leaves and sauté chopped onions until golden.\n3. Add ginger-garlic paste and green chilies, cook for a minute.\n4. Add chopped tomatoes, turmeric powder, red chili powder, and coriander powder. Cook until tomatoes soften and the oil separates.\n5. Add water to create a gravy and then pour in the coconut milk. Bring it to a simmer.\n6. Gently add fish pieces to the curry and cook for 8-10 minutes, until the fish is cooked through.\n7. Add tamarind pulp for a tangy kick and let it cook for a couple more minutes.\n8. Garnish with coriander leaves and serve hot with rice or roti.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Chicken Biryani",
+            "description": "Aromatic and flavorful rice dish made with marinated chicken and basmati rice, cooked together with a mix of spices and herbs.",
+            "itemimg": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
+            "ingredients": "1. Chicken pieces\n2. Basmati rice\n3. Onions (thinly sliced)\n4. Tomatoes (chopped)\n5. Ginger-garlic paste\n6. Yogurt\n7. Mint leaves\n8. Coriander leaves\n9. Biryani masala\n10. Turmeric powder\n11. Red chili powder\n12. Cumin powder\n13. Coriander powder\n14. Cloves\n15. Cardamom\n16. Cinnamon stick\n17. Bay leaves\n18. Saffron strands\n19. Ghee\n20. Oil\n21. Salt\n22. Water",
+            "procedure": "1. Marinate the chicken with yogurt, ginger-garlic paste, biryani masala, turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Let it sit for at least 30 minutes.\n2. Wash and soak the basmati rice for 20-30 minutes.\n3. In a large pot, heat oil and ghee. Add whole spices (cloves, cardamom, cinnamon, and bay leaves) and sauté for a few seconds.\n4. Add sliced onions and cook until golden brown. Remove half for garnishing.\n5. Add chopped tomatoes and cook until soft.\n6. Add marinated chicken and cook until tender and the oil separates.\n7. In a separate pot, bring water to a boil and cook the soaked rice until it's 70% cooked.\n8. Layer the cooked rice over the chicken, then sprinkle mint, coriander leaves, and saffron soaked in milk.\n9. Cover and cook on low heat for 15-20 minutes.\n10. Serve hot with raita or salad.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Prawn Fried Biryani",
+            "description": "A delicious and spicy biryani made with prawns, basmati rice, and a blend of aromatic spices, served with fried onions and garnished with fresh coriander.",
+            "itemimg": "https://media.istockphoto.com/id/1223571569/photo/thai-tom-yum-fried-rice-or-prawn-biryani-isolated-on-white-backdrop-thailand-cuisine-dish.jpg?s=612x612&w=0&k=20&c=OmwcWHrUY9KhxmzUWq2pvhQApEImdXQrvbhdsS8aGgc=",
+            "ingredients": "1. Prawns (cleaned and deveined)\n2. Basmati rice\n3. Onions (thinly sliced)\n4. Tomatoes (chopped)\n5. Ginger-garlic paste\n6. Green chilies (slit)\n7. Yogurt\n8. Mint leaves\n9. Coriander leaves\n10. Biryani masala\n11. Turmeric powder\n12. Red chili powder\n13. Cumin powder\n14. Coriander powder\n15. Cloves\n16. Cardamom\n17. Cinnamon stick\n18. Bay leaves\n19. Ghee\n20. Oil\n21. Salt\n22. Water\n23. Lemon juice\n24. Saffron strands",
+            "procedure": "1. Marinate the prawns with yogurt, ginger-garlic paste, biryani masala, turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Let it marinate for 15-20 minutes.\n2. Rinse and soak the basmati rice for 20-30 minutes.\n3. In a large pot, heat oil and ghee. Add whole spices (cloves, cardamom, cinnamon, and bay leaves), sautéing for a few seconds.\n4. Add sliced onions and fry them until golden brown. Set aside half for garnishing.\n5. Add chopped tomatoes and green chilies, cook until tomatoes soften.\n6. Add marinated prawns, cook for 4-5 minutes until they turn pink and are cooked through.\n7. In a separate pot, cook the soaked rice in boiling water until it's 70% cooked.\n8. Layer the cooked rice over the prawns, then sprinkle mint leaves, coriander leaves, and saffron soaked in milk.\n9. Drizzle lemon juice over the top. Cover and cook on low heat for 15-20 minutes.\n10. Serve hot, garnished with fried onions and fresh coriander.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Natukodi Curry",
+            "description": "A spicy and aromatic curry made with free-range chicken, cooked in a rich blend of traditional spices.",
+            "itemimg": "https://jagaviskritunga.in/wp-content/uploads/2024/05/25244-1.jpg",
+            "ingredients": "1. Country chicken (cut into pieces)\n2. Onions (chopped)\n3. Tomatoes (chopped)\n4. Ginger-garlic paste\n5. Green chilies\n6. Curry leaves\n7. Coriander powder\n8. Cumin powder\n9. Chili powder\n10. Turmeric powder\n11. Garam masala\n12. Coconut (grated)\n13. Fresh coriander leaves\n14. Salt\n15. Oil",
+            "procedure": "1. Heat oil in a pot and sauté chopped onions until golden brown.\n2. Add ginger-garlic paste and cook for 1 minute until the raw smell disappears.\n3. Add green chilies and curry leaves, then the chopped tomatoes. Cook until tomatoes soften and oil separates.\n4. Add coriander powder, cumin powder, chili powder, and turmeric powder. Stir and cook for 1 minute.\n5. Add the chicken pieces, mix well with the spices, and cook for 5-6 minutes to allow the chicken to brown.\n6. Add water or chicken stock, cover, and simmer for 20-25 minutes or until the chicken is tender.\n7. Dry roast grated coconut until golden brown, then grind it into a smooth paste with a little water.\n8. Add the coconut paste to the curry, stir well, and simmer for an additional 5-10 minutes.\n9. Finish with garam masala and garnish with fresh coriander leaves. Serve hot with steamed rice or roti.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Fish Tikka Masala",
+            "description": "A flavorful and aromatic dish where marinated fish is grilled or baked and then simmered in a spiced tomato-based gravy, resulting in a rich and creamy curry.",
+            "itemimg": "https://vaya.in/recipes/wp-content/uploads/2018/03/Fish-Tikka.jpg",
+            "ingredients": "1. Fish fillets (boneless, cut into cubes)\n2. Yogurt\n3. Ginger-garlic paste\n4. Lemon juice\n5. Red chili powder\n6. Turmeric powder\n7. Garam masala\n8. Cumin powder\n9. Coriander powder\n10. Salt\n11. Oil\n12. Butter\n13. Onions (finely chopped)\n14. Tomatoes (pureed)\n15. Cream\n16. Kasuri methi (dried fenugreek leaves)\n17. Fresh cilantro (for garnish)",
+            "procedure": "1. Marinate the fish pieces with yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric powder, garam masala, cumin powder, coriander powder, and salt. Let it sit for at least 30 minutes.\n2. Grill or bake the marinated fish pieces until they are cooked through and slightly charred.\n3. Heat oil and butter in a pan. Add chopped onions and sauté until golden brown.\n4. Add ginger-garlic paste and cook for 1 minute.\n5. Pour in pureed tomatoes and cook until the oil separates from the masala.\n6. Add the grilled fish pieces to the pan and gently stir.\n7. Pour in some water or broth to make a thick gravy. Cook for 5-10 minutes.\n8. Stir in cream and kasuri methi. Simmer for 2 more minutes.\n9. Garnish with fresh cilantro and serve hot with naan or rice.",
+            "category": "maincourse"
+        },
+        {
+            "itemname": "Meat Balls",
+            "description": "Delicious, juicy meatballs made with ground meat and a blend of spices, served as a snack or appetizer.",
+            "itemimg": "https://italianexpressonline.com/wp-content/uploads/2019/07/meatballs.jpeg",
+            "ingredients": "1. Ground meat (beef or chicken)\n2. Onion (finely chopped)\n3. Garlic (minced)\n4. Bread crumbs\n5. Egg\n6. Parsley (chopped)\n7. Parmesan cheese\n8. Salt\n9. Black pepper\n10. Olive oil\n11. Tomato sauce (for serving)",
+            "procedure": "1. In a bowl, combine ground meat, finely chopped onions, minced garlic, bread crumbs, egg, chopped parsley, and grated parmesan cheese. Season with salt and pepper. \n2. Mix everything until well combined, then shape the mixture into small meatballs. \n3. Heat olive oil in a pan over medium heat, and fry the meatballs until browned on all sides, about 6-8 minutes. \n4. Once cooked, remove the meatballs and drain excess oil on a paper towel. \n5. Serve with tomato sauce or your preferred dip.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Keema Samosa",
+            "description": "Crispy, golden fried pastry pockets filled with spiced minced meat (keema), a perfect snack or appetizer.",
+            "itemimg": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Best-Keema-Samosa-1.jpg",
+            "ingredients": "1. Minced meat (beef or chicken)\n2. Onion (finely chopped)\n3. Garlic (minced)\n4. Ginger (grated)\n5. Green chilies (finely chopped)\n6. Potatoes (boiled and mashed)\n7. Garam masala\n8. Turmeric powder\n9. Red chili powder\n10. Cumin powder\n11. Fresh coriander leaves (chopped)\n12. Salt\n13. Oil\n14. Samosa pastry sheets (or homemade dough)",
+            "procedure": "1. Heat oil in a pan and sauté chopped onions, garlic, and ginger until golden brown. \n2. Add the minced meat to the pan and cook until browned, breaking it apart with a spoon. \n3. Add the green chilies, spices (garam masala, turmeric, red chili powder, and cumin powder), and salt. Cook for a few more minutes until the mixture is well seasoned. \n4. Mix in the boiled, mashed potatoes and chopped coriander leaves. Stir everything together and cook for 2-3 minutes, then remove from heat and allow it to cool. \n5. Roll out samosa pastry sheets, place a spoonful of the keema filling in the center, and fold the edges to form a triangular shape. Seal the edges with a little water. \n6. Heat oil in a frying pan and deep fry the samosas until they are golden brown and crispy. \n7. Serve hot with mint chutney or tamarind sauce.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Egg 65",
+            "description": "A popular South Indian spicy and crispy egg dish, often served as a starter or snack.",
+            "itemimg": "https://food.annapurnaderoyal.com/wp-content/uploads/2020/05/Egg-65.jpeg",
+            "ingredients": "1. Boiled eggs (6)\n2. Ginger-garlic paste (1 tbsp)\n3. Red chili powder (1 tsp)\n4. Turmeric powder (1/2 tsp)\n5. Coriander powder (1 tsp)\n6. Cumin powder (1/2 tsp)\n7. Garam masala (1/2 tsp)\n8. Rice flour (2 tbsp)\n9. Cornflour (1 tbsp)\n10. Salt to taste\n11. Lemon juice (1 tbsp)\n12. Green chilies (2, slit)\n13. Fresh coriander leaves (chopped)\n14. Curry leaves\n15. Oil for frying\n16. Yogurt (1 tbsp) (optional)",
+            "procedure": "1. Peel the boiled eggs and make 2-3 slits on each egg for better marination. \n2. In a bowl, mix ginger-garlic paste, red chili powder, turmeric powder, coriander powder, cumin powder, garam masala, rice flour, cornflour, salt, lemon juice, and yogurt (optional) to form a smooth batter. \n3. Coat the boiled eggs with this mixture, ensuring they are well-covered. Let them marinate for 15-20 minutes. \n4. Heat oil in a pan and add the green chilies, curry leaves, and fresh coriander leaves. Fry for a minute. \n5. Gently slide the marinated eggs into the hot oil and fry until they turn golden brown and crispy. \n6. Remove from the oil and place on paper towels to absorb excess oil. \n7. Serve hot as a snack or appetizer with mint chutney or sauce.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Chicken Majestic",
+            "description": "A popular and flavorful spicy chicken dish, often served as a starter or snack in South Indian cuisine.",
+            "itemimg": "https://imranrestaurant.in/wp-content/uploads/2024/05/Chicken-Majestic.jpg",
+            "ingredients": "1. Boneless chicken (500g)\n2. Ginger-garlic paste (1 tbsp)\n3. Red chili powder (1 tsp)\n4. Turmeric powder (1/2 tsp)\n5. Coriander powder (1 tsp)\n6. Cumin powder (1/2 tsp)\n7. Garam masala (1/2 tsp)\n8. Rice flour (1 tbsp)\n9. Cornflour (1 tbsp)\n10. Salt to taste\n11. Lemon juice (1 tbsp)\n12. Fresh coriander leaves (chopped)\n13. Curry leaves (a few sprigs)\n14. Green chilies (2, slit)\n15. Red food color (optional)\n16. Oil for frying\n17. Onion (1 medium, sliced)\n18. Capsicum (1 medium, sliced)\n19. Fresh cream (2 tbsp) (optional)",
+            "procedure": "1. Cut the boneless chicken into bite-sized pieces. \n2. In a bowl, mix ginger-garlic paste, red chili powder, turmeric powder, coriander powder, cumin powder, garam masala, rice flour, cornflour, salt, and lemon juice to form a marinade. \n3. Coat the chicken pieces with this marinade and let it rest for 30 minutes to 1 hour. \n4. Heat oil in a pan and fry the marinated chicken pieces until they turn golden brown and crispy. Remove from oil and set aside. \n5. In another pan, heat some oil and add curry leaves, sliced onions, and green chilies. Sauté until onions turn soft. \n6. Add the sliced capsicum and sauté for 2 minutes. \n7. Add the fried chicken pieces to this mixture and stir well. Optionally, add fresh cream for a rich texture. \n8. Garnish with chopped coriander leaves and serve hot.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Seekh Kebabs",
+            "description": "Seekh Kebabs are spiced ground meat (usually chicken, lamb, or beef) molded onto skewers and grilled until crispy and flavorful.",
+            "itemimg": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2022/03/Seekh-Kebab.jpg?im=AspectCrop=(16,9);",
+            "ingredients": "1. Ground chicken or lamb (500g)\n2. Ginger-garlic paste (1 tbsp)\n3. Green chilies (2, chopped)\n4. Red chili powder (1 tsp)\n5. Cumin powder (1 tsp)\n6. Coriander powder (1 tsp)\n7. Garam masala (1/2 tsp)\n8. Salt to taste\n9. Fresh coriander leaves (chopped)\n10. Onion (1, finely chopped)\n11. Lemon juice (1 tbsp)\n12. Rice flour or breadcrumbs (2 tbsp)\n13. Ghee or oil for grilling\n14. Skewers (wooden or metal)",
+            "procedure": "1. In a large mixing bowl, combine ground meat, ginger-garlic paste, chopped green chilies, red chili powder, cumin powder, coriander powder, garam masala, salt, chopped fresh coriander, finely chopped onions, and lemon juice. \n2. Add rice flour or breadcrumbs to bind the mixture together. \n3. Knead the mixture for 5-7 minutes to ensure it is well combined and smooth. \n4. Divide the mixture into small portions and mold them onto skewers, shaping them into long kebab shapes. \n5. Preheat the grill or oven to medium heat and brush the kebabs with ghee or oil. \n6. Grill the kebabs for about 12-15 minutes, turning them occasionally until they are cooked through and golden brown. \n7. Serve the Seekh Kebabs hot with green chutney, onions, and naan or rice.",
+            "category": "snacks"
+        },
+        {
+            "itemname": "Chicken Spring Rolls",
+            "description": "Crispy fried rolls filled with spiced chicken, vegetables, and wrapped in a thin spring roll wrapper.",
+            "itemimg": "https://img.taste.com.au/WpK5IyV1/taste/2018/02/chicken-spring-rolls-134846-1.jpg",
+            "ingredients": "1. Chicken breast (200g, cooked and shredded)\n2. Spring roll wrappers (8-10)\n3. Carrot (1, julienned)\n4. Cabbage (1 cup, thinly sliced)\n5. Green beans (1/2 cup, thinly sliced)\n6. Garlic (2 cloves, minced)\n7. Ginger (1 tsp, minced)\n8. Soy sauce (2 tbsp)\n9. Salt and pepper to taste\n10. Cornstarch (1 tbsp, mixed with water)\n11. Oil for frying",
+            "procedure": "1. Heat a little oil in a pan and sauté garlic and ginger until fragrant. \n2. Add shredded chicken, carrots, cabbage, and green beans to the pan. Stir-fry for 2-3 minutes until vegetables are tender but still crunchy. \n3. Add soy sauce, salt, and pepper, and mix well. Cook for another 1-2 minutes to combine all flavors. \n4. Remove the filling from the pan and let it cool for a few minutes. \n5. Once cooled, place a spoonful of the chicken and vegetable mixture in the center of each spring roll wrapper. \n6. Roll tightly, folding in the sides to seal the filling inside, and apply a bit of cornstarch mixture to seal the edge. \n7. Heat oil in a deep pan or wok. Once hot, fry the spring rolls until golden and crispy, about 3-4 minutes per batch. \n8. Drain on paper towels and serve hot with sweet chili sauce or your favorite dipping sauce.",
+            "category": "snacks"
+        }
+    ],
+    "desserts": [
+        {
+            "itemname": "Gulab Jamun",
+            "description": "Sweet, deep-fried dough balls soaked in sugar syrup flavored with cardamom and rose water.",
+            "itemimg": "https://5.imimg.com/data5/SELLER/Default/2024/2/384944363/DN/MV/KT/144303146/gulab-jamun-desi-ghee-500x500.jpg",
+            "ingredients": "1. Milk powder (1 cup)\n2. All-purpose flour (1/4 cup)\n3. Baking soda (1/4 tsp)\n4. Ghee (2 tbsp)\n5. Milk (about 1/4 cup, to make the dough)\n6. Sugar (1 cup)\n7. Water (1 cup)\n8. Cardamom pods (2, crushed)\n9. Rose water (1 tsp)\n10. Ghee or oil for frying",
+            "procedure": "1. In a bowl, mix together milk powder, all-purpose flour, and baking soda. Add ghee and mix until the mixture becomes crumbly. \n2. Slowly add milk to the dry ingredients, a little at a time, to form a soft dough. Be careful not to overwork the dough. \n3. Divide the dough into small portions and roll them into smooth balls, ensuring there are no cracks. \n4. Heat ghee or oil in a pan over medium heat for frying. Once hot, fry the dough balls in batches, stirring gently to ensure even browning. Fry until they turn golden brown. \n5. While the balls are frying, make the syrup by heating water, sugar, cardamom, and rose water in a separate pot. Stir until the sugar dissolves and the syrup reaches a slightly sticky consistency. \n6. Once the fried balls are golden brown, remove them from the oil and immediately soak them in the warm sugar syrup for about 30 minutes. \n7. Serve the Gulab Jamun warm, garnished with chopped pistachios if desired.",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Kaju Katli",
+            "description": "A rich, sweet Indian dessert made from cashew nuts, sugar, and ghee, often shaped into diamond pieces.",
+            "itemimg": "https://images.healthshots.com/healthshots/en/uploads/2024/10/30172142/kaju-katli-sweets.jpg",
+            "ingredients": "1. Cashew nuts (1 cup)\n2. Sugar (1/2 cup)\n3. Water (1/4 cup)\n4. Ghee (2 tbsp)\n5. Cardamom powder (1/4 tsp)\n6. Silver leaf for garnish (optional)",
+            "procedure": "1. Start by grinding the cashew nuts into a fine powder using a food processor. Ensure that it’s as smooth as possible, but be careful not to turn it into cashew butter. \n2. In a non-stick pan, add sugar and water, and cook over medium heat to make a syrup. Stir until the sugar dissolves completely and the syrup reaches a one-thread consistency. \n3. Add the cashew powder to the sugar syrup and mix well to combine. Keep stirring continuously to avoid any lumps. \n4. Cook the mixture on low heat until it thickens and begins to leave the sides of the pan. Add ghee and cardamom powder, and stir until smooth. \n5. Once the dough is thick and no longer sticky, remove it from the heat and let it cool slightly. When it's cool enough to handle, transfer the mixture to a greased surface. \n6. Roll the mixture into a flat sheet of about 1/4 inch thickness. Use a sharp knife to cut it into diamond shapes or any other shape of your choice. \n7. Optionally, garnish with silver leaf and let the Kaju Katli cool completely before serving.",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Besan Laddu",
+            "description": "A traditional Indian sweet made from roasted gram flour (besan), ghee, sugar, and cardamom, shaped into round laddus.",
+            "itemimg": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/10/besan-ladoo-1.jpg",
+            "ingredients": "1. Besan (gram flour) - 1 cup\n2. Ghee - 1/2 cup\n3. Powdered sugar - 3/4 cup\n4. Cardamom powder - 1/4 tsp\n5. Chopped nuts (cashews, almonds) - 2 tbsp (optional)",
+            "procedure": "1. Heat ghee in a heavy-bottomed pan on medium heat. Once the ghee is melted, add the besan (gram flour) to the pan. Stir the flour continuously to ensure that it does not burn and cooks evenly. \n2. Roast the besan in ghee until it turns golden brown and emits a pleasant, nutty aroma. This step usually takes about 10-15 minutes. \n3. Once the besan is roasted, add the powdered sugar and cardamom powder to the mixture. Stir well to combine, and cook for another 2-3 minutes until the sugar is completely dissolved. \n4. If using, add the chopped nuts and mix them in. Continue stirring for a few more minutes to ensure that everything is evenly incorporated. \n5. Remove the pan from heat and let the mixture cool down a little, but it should still be warm enough to handle. \n6. Once the mixture is cool enough to touch, grease your palms with a little ghee and shape the mixture into small round laddus. \n7. Allow the laddus to cool completely before serving. Store in an airtight container.",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Putharekulu",
+            "description": "Putharekulu is a traditional Andhra sweet made from thin sheets of rice flour dough, filled with a mixture of grated jaggery and coconut. It is rolled into a thin, crispy treat and is often enjoyed during festivals and special occasions.",
+            "itemimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSn1HWM0AYeLLa-Jh5RkSTEZ0_CNCRYXkTzw&s",
+            "ingredients": "1. 1 cup rice flour\n2. 1/2 cup water\n3. 1/4 cup grated coconut\n4. 1/2 cup grated jaggery\n5. 1/2 teaspoon cardamom powder\n6. 1 tablespoon ghee (clarified butter)\n7. 1/4 cup water (for making jaggery syrup)",
+            "procedure": "1. Mix rice flour and water in a pan and cook on low heat, stirring continuously to form a dough-like consistency. Set the dough aside to cool.\n2. In a separate pan, heat 1/4 cup water and add grated jaggery. Stir until the jaggery melts and forms a syrup.\n3. Add grated coconut and cardamom powder to the jaggery syrup. Mix well and cook for a few minutes to combine the flavors. Set aside.\n4. To prepare the sheets, spread a clean cloth on a flat surface. Place a small portion of the rice flour dough on the cloth and flatten it with your fingers into a thin sheet.\n5. Once the sheet is formed, place a spoonful of the jaggery-coconut filling on the sheet and roll it up tightly.\n6. Repeat the process for the remaining dough and filling.\n7. Heat ghee in a pan and gently fry the rolled Putharekulu until golden and crispy.\n8. Serve hot or at room temperature.",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Ghee Mysore Pak",
+            "description": "Mysore Pak is a rich, aromatic, and indulgent Indian sweet made with gram flour (besan), ghee, and sugar. It's famous for its melt-in-your-mouth texture.",
+            "itemimg": "https://m.media-amazon.com/images/I/618qkOUvliL.jpg",
+            "ingredients": "1. Gram flour (besan) - 1 cup\n2. Ghee - 1 cup\n3. Sugar - 1 cup\n4. Water - 1/2 cup\n5. Cardamom powder - 1/2 tsp (optional)",
+            "procedure": "1. Heat a pan and add the ghee to it. Let it melt on low heat.\n2. In a separate bowl, mix the gram flour with water to form a smooth batter, ensuring there are no lumps.\n3. Once the ghee is melted, add the gram flour mixture into the pan, stirring continuously to avoid lumps.\n4. In another pan, heat water and sugar together to form a sugar syrup. Cook until the syrup reaches a one-string consistency (when a drop of syrup between your fingers forms a single thread).\n5. Slowly add the sugar syrup to the ghee and gram flour mixture while stirring constantly. Continue to cook on low heat.\n6. Add cardamom powder if desired and keep stirring the mixture until it thickens and starts leaving the sides of the pan.\n7. Once the mixture reaches a fudge-like consistency, pour it into a greased tray or plate and flatten it out.\n8. Allow the Mysore Pak to cool completely at room temperature, and then cut it into square or diamond-shaped pieces.\n9. Serve and enjoy the rich and delicious Mysore Pak!",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Malai Kaja",
+            "description": "Malai Kaja is a traditional Indian sweet from Odisha, made with layers of crispy, flaky dough filled with sweetened cream and soaked in sugar syrup.",
+            "itemimg": "https://m.media-amazon.com/images/I/7163uNeepGL.jpg",
+            "ingredients": "1. 1 cup all-purpose flour (maida)\n2. 1/4 cup semolina (sooji)\n3. 2 tablespoons ghee\n4. 1/4 teaspoon baking soda\n5. Water (as needed)\n6. Oil for deep frying\n7. 1/2 cup heavy cream\n8. 1/4 cup sugar\n9. 1/4 teaspoon cardamom powder\n10. 1/4 teaspoon rose water (optional)\n11. 1/2 cup sugar (for syrup)\n12. 1/2 cup water (for syrup)",
+            "procedure": "1. In a bowl, combine all-purpose flour, semolina, ghee, and baking soda. Gradually add water and knead into a smooth dough. Cover and let it rest for 30 minutes.\n2. Roll the dough into a thin sheet and cut it into strips.\n3. Mix the heavy cream with sugar, cardamom powder, and rose water (if using). Place a small amount of the cream mixture on each strip and fold it to form layers.\n4. Heat oil in a deep pan and fry the layered dough pieces until golden and crispy.\n5. In a separate pan, prepare the sugar syrup by boiling sugar and water until it reaches a one-thread consistency.\n6. Once the Malai Kajas are fried, dip them in the hot sugar syrup for a minute.\n7. Allow them to soak and drain the excess syrup before serving.",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Rasgulla",
+            "description": "Rasgulla is a popular Bengali dessert made from fresh chhena (cottage cheese) and soaked in a light sugar syrup. It is known for its spongy texture and sweetness.",
+            "itemimg": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/rasgulla.png",
+            "ingredients": "1. Fresh chhena (cottage cheese) - 1 cup\n2. Sugar - 1 1/2 cups\n3. Water - 3 cups\n4. Rose water or cardamom powder - 1 tsp (optional)\n5. Lemon juice or vinegar - 1 tsp\n6. All-purpose flour (optional, for binding) - 1 tsp",
+            "procedure": "1. To make chhena, heat milk in a pan and bring it to a boil. Once the milk boils, add lemon juice or vinegar to curdle the milk. Once curdled, strain the mixture through a muslin cloth and hang it for about 30 minutes to remove excess whey.\n2. Once the chhena is prepared, knead it for 5-10 minutes until it becomes smooth and soft.\n3. Divide the chhena into small portions and roll them into smooth, round balls. Ensure there are no cracks on the surface.\n4. In a pan, bring 3 cups of water to a boil and add sugar. Stir the mixture until the sugar dissolves completely to form a sugar syrup.\n5. Once the syrup is boiling, carefully drop the chhena balls into the syrup and cover the pan. Allow them to cook on medium heat for about 15-20 minutes, or until the balls double in size and become spongy.\n6. Once the Rasgullas are cooked, add rose water or cardamom powder (optional) for extra flavor.\n7. Let the Rasgullas cool down in the syrup for about 30 minutes before serving. They should be soft and spongy, absorbing the syrup well.\n8. Serve chilled for a refreshing treat.",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Kova",
+            "description": "Kova (or Khoya) is a rich Indian dairy product made by reducing full-fat milk to a solid consistency. It is often used in various Indian sweets and desserts.",
+            "itemimg": "https://images.picxy.com/cache/2020/2/27/d1f178ddd0c7303f85497a02b5bc699f.jpg",
+            "ingredients": "1. Full-fat milk - 1 liter\n2. Cardamom powder - 1/2 tsp (optional)",
+            "procedure": "1. Heat 1 liter of full-fat milk in a wide, heavy-bottomed pan over medium heat.\n2. Bring the milk to a boil and then lower the heat to simmer. Stir the milk continuously to avoid it from sticking to the bottom of the pan.\n3. As the milk reduces, it will start thickening. Scrape the sides of the pan to remove the milk solids that form, and add them back into the milk.\n4. Continue cooking and stirring until the milk reduces to about 1/4th of its original quantity, forming a thick, creamy consistency.\n5. Once the milk has reduced to a solid mass, it should be soft and crumbly. This is the kova (or khoya) consistency.\n6. Optional: Add cardamom powder to the kova for added flavor.\n7. Remove the kova from the pan and allow it to cool before using it in sweets like peda, burfi, or halwa.",
+            "category": "dessert"
+        },
+        {
+            "itemname": "Apricot Delight",
+            "description": "Apricot Delight is a sweet and tangy dessert made with dried apricots, sugar, and sometimes nuts, creating a chewy and flavorful treat.",
+            "itemimg": "https://img.freepik.com/premium-photo/gourmet-apricot-delight-snowy-white-4k-apricot-image-photography_1020697-67985.jpg",
+            "ingredients": "1. Dried apricots - 200g\n2. Sugar - 100g\n3. Water - 1 cup\n4. Chopped nuts (almonds, pistachios) - 50g\n5. Rose water - 1 tsp (optional)",
+            "procedure": "1. Soak the dried apricots in water for 2-3 hours to soften them.\n2. Once softened, chop the apricots into small pieces.\n3. In a pan, combine the chopped apricots, sugar, and 1 cup of water. Cook over low heat, stirring occasionally until the mixture thickens and the apricots become soft.\n4. If using, add rose water for fragrance and flavor.\n5. Once the mixture thickens to a jam-like consistency, remove it from the heat.\n6. Let it cool slightly and then fold in the chopped nuts.\n7. Transfer the mixture to a greased tray or mold and press it down firmly.\n8. Allow it to cool completely at room temperature or refrigerate for faster setting.\n9. Once set, cut into squares and serve chilled or at room temperature.",
+            "category": "dessert"
+        }
+    ]
+}

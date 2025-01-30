@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="./../BootStrap/bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="./JSProject.css">
+    <title>JS Project</title>
+</head>
+
+<body>
+    <div class="main_page">
+        <div class="main_nav_bar">
+            <img id="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTzvz-KOCN0-cegwYFfGuVfJ79RSOyLoHKQ&s" alt="img missing">
+            <div class="log">
+                <button id="homeButton">Go Home</button>
+                <button id="wishlist">Wish List</button>
+                <button id="logout" type="submit">log out</button>
+            </div>
+        </div>
+        <div id="description">
+            <button class="close-btn" id="closeBtn">❌</button>
+            <h5><h3>Desi Kitchen – A Taste of Tradition and Love 🍽️✨</h3>
+                At Desi Kitchen, we bring you an authentic culinary experience, steeped in the rich traditions of Desi culture. Our menu is a celebration of
+                 time-honored recipes, each passed down through generations, filled with love and care. 🍛 Every dish is crafted with handpicked, fresh ingredients
+                  🌿 to ensure the finest quality and most vibrant flavors, all prepared with the same attention to detail you’d find in a home kitchen. ❤️<br><br>
+                Whether you're craving the bold spices of Indian street food 🍢 or the luxurious flavors of Mughlai delicacies, our diverse menu has something 
+                for everyone. From rich curries to grilled delights, we offer a full spectrum of flavors to satisfy every palate. 🥘<br><br>
+                What makes Desi Kitchen special is not just the food, but the experience. We take pride in every bite, knowing that it’s made with
+                 passion and care. The focus is always on authenticity, freshness, and health 🍽️. So, whether you’re enjoying a hearty curry or a crispy snack, 
+                 you can be sure you’re getting the best of Desi cuisine, made with love. 💕</h5>
+        </div>
+        <div class="food" id="food">
+            <div class="veg">
+                <img id="veg" src="https://cdn.pixabay.com/photo/2024/02/14/06/41/healthy-8572451_640.png"
+                    alt="img missing">
+                <h3>VEGETARIAN FOOD</h3>
+            </div>
+            <div class="non_veg">
+                <img id="non_veg"
+                    src="https://t3.ftcdn.net/jpg/06/48/92/52/360_F_648925212_QYHo0OCN9Va3UvfWOEtpHM43A6lE1lSV.jpg"
+                    alt="img missing">
+                <h3>NON - VEGETARIAN FOOD</h3>
+            </div>
+            <div class="desserts">
+                <img id="desserts" src="https://www.kyleecooks.com/wp-content/uploads/2019/01/Oreo-Dirt-Pudding-29.jpg"
+                    alt="img missing">
+                <h3>DESSERTS</h3>
+            </div>
+        </div>
+    </div>
+    <div id="veg_container">
+        <div class="veg_nav">
+            <button id="all" class="fetchButton">All</button>
+            <button id="breakfast" class="fetchButton">Break Fast</button>
+            <button id="maincourse" class="fetchButton">Main Course</button>
+            <button id="snacks" class="fetchButton">Snacks</button>
+        </div>
+        <div class="veg_box"></div>
+    </div>
+    <div id="non_veg_container">
+        <div class="non_veg_nav">
+            <button id="all" class="fetchButton">All</button>
+            <button id="breakfast" class="fetchButton">Break Fast</button>
+            <button id="maincourse" class="fetchButton">Main Course</button>
+            <button id="snacks" class="fetchButton">Snacks</button>
+        </div>
+        <div class="non_veg_box"></div>
+    </div>
+    <div id="desserts_container">
+        <div class="desserts_box"></div>
+    </div>
+
+    <!-- Profile Container -->
+    <div id="profile-container">
+        <span id="close-profile">&times;</span>
+        <div id="profile-content">
+            <!-- <h3>Your Profile</h3>
+            <p><strong>Username:</strong> <span id="username"></span></p>
+            <p><strong>Email:</strong> <span id="email"></span></p> -->
+
+            <!-- Wish List Section -->
+            <h4 id="wish-text">Your Wish List</h4>
+            <ul id="wish-list">
+                <!-- Dynamically added items will go here -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Firebase JS SDK scripts as modules -->
+    <script type="module" src="https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/11.0.2/firebase-auth.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore.js"></script>
+    <script type="module" src="https://www.gstatic.com/firebasejs/11.0.2/firebase-database.js"></script>
+
+    <script src="./JSProject.js"></script>
+    <script type="module" src="./login.js"></script>
+</body>
+
+</html>

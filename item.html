@@ -1,0 +1,138 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="./item.css">
+    <title>ITEM</title>
+</head>
+
+<body>
+    <div id="container"></div>
+    <script>
+        let container = document.getElementById("container");
+        document.addEventListener("DOMContentLoaded", () => {
+            // Parse data from localStorage
+            const data = JSON.parse(localStorage.getItem("item"));
+
+            if (data) {
+                let content = `
+                <i class="fa-solid fa-circle-xmark cross"></i>
+            <h4>ITEMNAME:</h4>
+            <p>${data["itemname"] || "N/A"}</p>
+            <h4>DESCRIPTION:</h4>
+            <p>${data["description"] || "N/A"}</p>
+            <img src="${data["itemimg"] || ""}" alt="${data["itemname"] || "Image"}" />
+            <h4>INGREDIENTS:</h4>
+            <p>${data["ingredients"] || "N/A"}</p>
+            <h4>PROCEDURE:</h4>
+            <p>${data["procedure"] || "N/A"}</p>`;
+                container.innerHTML = content;
+            } else {
+                container.innerHTML = `<p>No data available.</p>`;
+            }
+            const closeIcon = container.querySelector(".cross"); // Get the cross icon
+            closeIcon.addEventListener("click", () => {
+                window.close()
+            });
+        });
+    </script>
+</body>
+
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="./item.css">
+    <title>Item Details</title>
+</head>
+
+<body>
+    <div id="container">
+        <div class="item-details"></div>
+        <div class="wishlist">
+            <i class="fa-solid fa-heart" id="wishlist-heart"></i>
+            <span class="wishlist-text">Add to Wishlist</span>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            // Parse item data from localStorage
+            const data = JSON.parse(localStorage.getItem("item"));
+
+            if (data) {
+                const content = `
+                    <i class="fa-solid fa-circle-xmark cross"></i>
+                    <h4>ITEM NAME:</h4>
+                    <p>${data.itemname || "N/A"}</p>
+                    <h4>DESCRIPTION:</h4>
+                    <p>${data.description || "N/A"}</p>
+                    <img src="${data.itemimg || ""}" alt="${data.itemname || "Image"}" />
+                    <h4>INGREDIENTS:</h4>
+                    <p>${data.ingredients || "N/A"}</p>
+                    <h4>PROCEDURE:</h4>
+                    <p>${data.procedure || "N/A"}</p>`;
+                document.querySelector(".item-details").innerHTML = content;
+            } else {
+                document.getElementById("container").innerHTML = `<p>No data available.</p>`;
+            }
+
+            // Wishlist Management
+            const wishlistContainer = JSON.parse(localStorage.getItem("wishlist")) || [];
+            const heartIcon = document.querySelector("#wishlist-heart");
+            const wishlistText = document.querySelector(".wishlist-text");
+
+            // Check if the item is already in the wishlist
+            let isItemInWishlist = wishlistContainer.some(item => item.itemname === (data?.itemname || ""));
+
+            // Set the heart icon and text based on the wishlist state
+            if (isItemInWishlist) {
+                heartIcon.classList.add("liked");
+                wishlistText.textContent = "Remove from Wishlist";
+            } else {
+                heartIcon.classList.remove("liked");
+                wishlistText.textContent = "Add to Wishlist";
+            }
+
+            // Wishlist toggle logic
+            heartIcon.addEventListener("click", () => {
+                heartIcon.classList.toggle("liked");
+
+                if (heartIcon.classList.contains("liked")) {
+                    if (!isItemInWishlist) {
+                        wishlistContainer.push(data);
+                        localStorage.setItem("wishlist", JSON.stringify(wishlistContainer));
+                        wishlistText.textContent = "Remove from Wishlist";
+                        // alert("Item added to wishlist!");
+                    }
+                } else {
+                    const updatedWishlist = wishlistContainer.filter(item => item.itemname !== data.itemname);
+                    localStorage.setItem("wishlist", JSON.stringify(updatedWishlist));
+                    wishlistText.textContent = "Add to Wishlist";
+                    // alert("Item removed from wishlist!");
+                }
+
+                // Update state for further toggles
+                isItemInWishlist = wishlistContainer.some(item => item.itemname === data.itemname);
+            });
+
+            // Close functionality (optional)
+            const closeIcon = document.querySelector(".cross");
+            if (closeIcon) {
+                closeIcon.addEventListener("click", () => {
+                    history.back();
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>
