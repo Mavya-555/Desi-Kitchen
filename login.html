@@ -69,21 +69,6 @@
             createUserWithEmailAndPassword(auth, email, password)
                 .then((userCredential) => {
                     const user = userCredential.user;
-
-                    // Storing data in Realtime Database
-                    //     set(ref(database, 'users/' + user.uid), {
-                    //         username: username,
-                    //         email: email,
-
-                    //     }).then(() => {
-                    //         alert("User created successfully!");
-                    //     }).catch((error) => {
-                    //         alert("Error saving user data: " + error.message);
-                    //     });
-                    // })
-                    // .catch((error) => {
-                    //     alert("Error: " + error.message);
-                    // });
                     setDoc(doc(db, "users", user.uid), {
                         username: username,
                         email: email,
