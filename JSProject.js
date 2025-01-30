@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
             `;
             li.addEventListener("click", () => {
                 localStorage.setItem("item", JSON.stringify(item));
-                window.open("./item.html", "_blank");
+                window.open("./item.html", "_self");
             });
             wishlistContainer.appendChild(li);
         });
