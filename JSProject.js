@@ -254,13 +254,6 @@ document.querySelectorAll(".fetchButton").forEach(button => {
             desserts_container.style.display = "none";
         }
         else {
-            // if (data3.length === 0) {
-            //     alert("Data is not Available");
-            // }
-            // else if (value3 === "all") {
-            //     displayDessertsData(data3);
-            // }
-            // else {
             let result3 = data3.filter(obj => obj["category"] === value3);
             displayDessertsData(result3);
             // }
