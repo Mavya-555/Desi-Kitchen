@@ -1,32 +1,3 @@
-// import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
-// import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-auth.js";
-
-// // Firebase configuration from Firebase Console
-// const firebaseConfig = {
-//   apiKey: "YOUR_API_KEY",
-//   authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-//   projectId: "YOUR_PROJECT_ID",
-//   storageBucket: "YOUR_PROJECT_ID.appspot.com",
-//   messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-//   appId: "YOUR_APP_ID"
-// };
-
-// // Initialize Firebase
-// const app = initializeApp(firebaseConfig);
-
-// // Now you can use Firebase Auth
-// const auth = getAuth(app);
-// // Log Out Button
-// document.getElementById("logout").addEventListener("click", ()=> {
-//     onAuthStateChanged(auth, (user) => {
-//         if (!user) {
-//             window.location.href = './login.html';
-//         }
-//     });
-// } )
-
-
-
 // ---- description data ----
 const logo = document.getElementById("logo");
         const description = document.getElementById("description");
@@ -107,11 +78,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 let food = document.getElementsByClassName("food")[0];
-
-// HOME BUTTON
-// document.getElementById("homeButton").addEventListener("click", () => {
-//     window.location.href = "./JSProject.html"; 
-// });
 
 // VEG DATA
 let btn_veg = document.getElementsByClassName("veg")[0];
